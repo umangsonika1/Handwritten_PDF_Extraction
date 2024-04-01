@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b190238e-fa84-4d8b-bb21-b612d2f010a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/final_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ans/resized_gray_true_image.png" beforeDir="false" afterPath="$PROJECT_DIR$/ans/resized_gray_true_image.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ans/true_gray_image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ans/true_gray_image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.zip" beforeDir="false" afterPath="$PROJECT_DIR$/data.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/newpdf2_page0.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/newpdf2_page0.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/newpdf2_page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/output/newpdf2_page1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/paper/image_15_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/paper/image_15_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/paper/image_1_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/paper/image_1_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/paper/image_2_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/paper/image_2_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/paper/image_3_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/paper/image_3_0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/paper/image_4_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/paper/image_4_0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/paper/image_8_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/output/paper/image_8_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing_categories_pdf.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
